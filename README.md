@@ -24,3 +24,17 @@ In this challenge, we're asked to loop through all stocks for one year in sheet,
 
 If you go to the `Developer` tab on the top and choose Macros, open the script and run it. Once it's finish running the script, there will be a message box showing `Complete`. 
 
+This is the screenshoot of year 2018
+
+![](Module%202_Images/Module%202_2018data_Shengnan.Ma.png)
+
+This is the screenshoot of year 2019
+
+![](Module%202_Images/Module%202_2019data_Shengnan.Ma.png)
+
+This is the screenshoot of year 2020
+
+![](Module%202_Images/Module%202_2020data_Shengnan.Ma.png)
+
+---
+**The `Record Macro` is a very useful tool.**
