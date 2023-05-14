@@ -22,6 +22,8 @@ In this challenge, we're asked to loop through all stocks for one year in sheet,
 
 ## How to run it
 
+Link to the Excel file: https://drive.google.com/drive/folders/1_PtC-ZIHmp5PTmIyszsDdwyq96fpYYda?usp=sharing
+
 If you go to the `Developer` tab on the top and choose Macros, open the script and run it. Once it's finish running the script, there will be a message box showing `Complete`. 
 
 This is the screenshoot of year 2018
